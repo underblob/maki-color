@@ -1,0 +1,27 @@
+{
+  "name": "maki-color",
+  "version": "0.1.0",
+  "description": "Install scripts for colored output",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underblob/maki-color.git"
+  },
+  "keywords": [
+    "color",
+    "output",
+    "cli",
+    "install",
+    "shell"
+  ],
+  "author": "Brad Barwick <underblob@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/underblob/maki-color/issues"
+  },
+  "homepage": "https://github.com/underblob/maki-color#readme"
+}
