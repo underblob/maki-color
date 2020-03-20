@@ -13,9 +13,7 @@ const PRE = '\033[0;240;2m';
 function color(...args) {
   const [strings, ...tokens] = args;
   tokens.push('');
-  const message = tokens.length
-    ? strings.reduce((accum, str, i) => (accum += `${str}${tokens[i]}`), '')
-    : strings[0];
+  const message = strings.reduce((accum, str, i) => (accum += `${str}${tokens[i]}`), '');
 
   let stack;
   try { throw new Error('GET_STACK'); }
