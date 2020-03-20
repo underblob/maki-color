@@ -1,6 +1,6 @@
 {
   "name": "maki-color",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Install scripts for colored output",
   "main": "index.js",
   "bin": "cli.js",
