@@ -2,6 +2,8 @@
 
 > Install scripts for colored output
 
+⚠️ This package was written on and for Mac OS. If you would like to contributer a comprehensive update for Windows or other platform, please welcome!
+
 ## Install
 
 ```
@@ -17,6 +19,7 @@ color.sh
 
 ## Requirements
 
+- Mac OS
 - Node >= 8
 - NPM >= 5.3
 
