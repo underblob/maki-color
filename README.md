@@ -2,7 +2,7 @@
 
 > Install scripts for colored output
 
-⚠️ This package was written on and for Mac OS. If you would like to contributer a comprehensive update for Windows or other platform, please welcome!
+⚠️ This package was written on and for Mac OS. If you would like to contribute a comprehensive update for Windows or other platform, please welcome!
 
 ## Install
 
