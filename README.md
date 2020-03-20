@@ -53,7 +53,9 @@ color`{RED}Error!`;
 color`{GREEN}Script completed successfully.`;
 ```
 
-![Screenshot](./img/screenshot.png)
+![Screenshot](./img/screenshot.png)0
+
+## Configuration
 
 Set the `$COLOR_ORIGIN` environment variable to turn off the file origin trace:
 
@@ -62,3 +64,9 @@ export COLOR_ORIGIN=false
 ```
 
 ![Screenshot with no origin trace](./img/screenshot_no-origin.png)
+
+## Links
+
+- [Github](https://github.com/underblob/maki-color)
+- [NPM package](https://www.npmjs.com/package/maki-color)
+- [Report a bug](https://github.com/underblob/maki-color/issues)
