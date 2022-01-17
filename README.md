@@ -27,7 +27,7 @@ color.sh
 
 Shell scripts:
 
-```
+```sh
 #!/bin/bash
 # test.sh
 
@@ -43,7 +43,7 @@ color "${GREEN}Script completed successfully."
 
 JS scripts:
 
-```
+```js
 // test.js
 
 const { color, colorInit } = require('./path/to/scripts/color.js'):

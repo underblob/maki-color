@@ -30,7 +30,11 @@ function color(...args) {
     .replace(/{BLUE}/g, '\033[0;34m')
     .replace(/{GREEN}/g, '\033[0;32m')
     .replace(/{RED}/g, '\033[0;31m')
-    .replace(/{YELLOW}/g, '\033[0;33m');
+    .replace(/{YELLOW}/g, '\033[0;33m')
+    .replace(/{END}/g, END)
+    .replace(/{DIM}/g, PRE)
+    .replace(/{PRE}/g, PRE)
+  ;
 
   console.log(`${origin}${colored}${END}`);
 }

@@ -4,6 +4,7 @@
 # See https://github.com/underblob/maki-color
 
 PRE='\033[0;240;2m'
+DIM='\033[0;240;2m'
 BLUE='\033[0;34m'
 GREEN='\033[0;32m'
 RED='\033[0;31m'
