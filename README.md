@@ -56,7 +56,7 @@ color`{RED}Error!`;
 color`{GREEN}Script completed successfully.`;
 ```
 
-![Screenshot](./img/screenshot.png)0
+![Screenshot](./img/screenshot.png)
 
 ## Configuration
 
